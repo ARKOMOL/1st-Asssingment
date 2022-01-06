@@ -1,0 +1,115 @@
+.display{
+    display:flex;
+        }
+ .half-width{
+     width: 50%;
+ }
+ p{
+     font-size: 20px;
+ }       
+    .half-width img{
+        width: 70%;
+    }  
+
+    .heading-content{
+        margin: 20px 80px;
+        padding-right:290px;
+    }
+    .heading-code{
+        border-left: 4px solid rgb(69, 190, 211);
+
+    }
+    .heading-code h1{
+        font-size: 60px;
+        padding-left: 10px; 
+    }
+    span{
+        color: hotpink;
+    }
+    .btn{
+        margin-bottom: 10px;
+    }
+    .btn a {
+        text-decoration: none;
+        color: white;
+        font-size: 19px;
+        padding: 7px 30px;
+        background-color: rgb(106 114 221);
+        border-radius: 10px;
+    }
+
+
+    /* Mission */
+    .mission-heading h1{
+        text-align: center;
+        font-size: 40px;
+    }
+    .mission,.vision,.goals{
+      
+       margin: 0 10px;
+        padding: 10px 40px;
+        border-radius: 10px;
+    }
+.mission{
+    background-color: rgb(211, 171, 164);
+}
+.vision{
+    background-color: turquoise;
+}
+.goals{
+    background-color: rgb(213, 224, 64);
+}
+
+/* dev part  */
+
+.developer-part{
+    margin: 30px 40px;}
+.dev-content{
+    margin-top: 100px;
+}
+.dev-content  h2{
+    font-size: 30px;
+}
+.dev-content p,.global-content p{
+margin-right:100px ;
+}
+/* global */
+.global-part{
+   
+    background-size: 10%;
+
+}
+.global-content{
+    margin: 20px 40px;
+}
+.global-content h2{
+    font-size: 30px;
+}
+
+/* about */
+.about-me h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+    color: #14c3f7;
+}
+ .about-img {
+    margin-top: -120px;
+}
+.about-content{
+    margin-top: 260px;
+   
+}
+.about-content p{
+    margin: 0 50px;
+}
+        /* footer  */
+        footer{
+            padding: 20px 0;
+            color: white;
+            text-align: center;
+            background-color: rgb(54, 156, 224);
+        }
+        .last-color{
+            color: rgb(134, 218, 38);
+        }
